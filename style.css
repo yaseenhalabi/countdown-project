@@ -1,4 +1,20 @@
 html {
+  background-color: #ffeb85;
   height: 100%;
   width: 100%;
+  font-family: "Roboto";
+}
+
+h1 {
+  text-align: center;
+}
+
+.main{
+  background-color: rgb(244, 255, 158);
+  display: flex;
+  justify-content: space-around;
+}
+
+.main div{
+  text-align: center;
 }
